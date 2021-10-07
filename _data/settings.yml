@@ -1,0 +1,43 @@
+#-------------------------------
+# General Site Settings
+title: Ngetik.CO
+logo: ngetik-svg.jpg # You can add own logo.
+description: Share the latest news about anything around the World
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: Fitrah Aditiya
+  image: adit-3.jpg
+  say-hello: Hello, I’m <strong>Fitrah Aditiya</strong>
+  bio: Designs and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and <strong>dev</strong>. I share free resources and inspiration.
+
+
+#-------------------------------
+# Contact links
+facebook: https://facebook.com/rai.aspx5
+github: https://github.com/aditiyaf
+instagram: https://instagram.com/faditiya_
+linkedin: https://www.linkedin.com/mwlite/in/fitrah-aditiya-8aa454221
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: Adit # add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
+instagram-profile: faditiya_ # Add instagram username
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
