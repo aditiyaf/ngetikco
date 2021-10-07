@@ -14,8 +14,8 @@ Table of Contents
 *   [Instagram](#instagram)
 *   [Google Analytics](#GoogleAnalytics)
 *   [Update favicon](#UpdateFavicon)
-*   [Credits](#Credits)
-*   [Support](#Support)
+
+
 
 * * *
 
